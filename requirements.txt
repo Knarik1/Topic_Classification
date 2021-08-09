@@ -1,0 +1,12 @@
+aim==2.1.4
+huggingface-hub==0.0.8
+numpy==1.19.5
+pandas==1.1.5
+scikit-learn==0.23.2
+tokenizers==0.10.3
+torch==1.9.0
+torchcam==0.1.1
+torchfile==0.1.0
+torchtext==0.10.0
+tqdm==4.54.1
+transformers==4.6.1
